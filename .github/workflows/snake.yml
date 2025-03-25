@@ -30,8 +30,9 @@ jobs:
           git commit -m "Add generated snake animation"
           git push
 
-      # Passo 4: Fazer o upload do arquivo gerado para o GitHub Pages
-      - name: Upload SVG to GitHub Pages
-        uses: actions/upload-pages-artifact@v4
+      # Passo 4: Fazer o upload do arquivo gerado para o repositório
+      - name: Upload SVG file
+        uses: actions/upload-artifact@v2  # Usando a versão estável da ação de upload
         with:
+          name: github-contribution-grid-snake
           path: dist/github-contribution-grid-snake.svg
