@@ -1,28 +1,22 @@
-name: Snake Animation
-on:
-  workflow_dispatch:
-  schedule:
-    - cron: '0 0 * * *'
+name: Generate Snake
+on: [workflow_dispatch]
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        
-      # Versão FIX do snk (evita erro 'spirit')
-      - uses: Platane/snk@9e15a9f  # Commit hash garantido
+      
+      - name: Generate Snake
+        uses: https://github.com/Platane/snk@9e15a9f3b9b7e1a0e0d8c  # Versão estável
         with:
           github_user_name: gustavgallo
-          outputs: |
-            github-contribution-grid-snake.svg
-            github-contribution-grid-snake-dark.svg
+          outputs: snake.svg
 
-      # Push garantido (mesmo sem mudanças)
-      - name: Force Push SVG
+      - name: Commit and Push
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
           git add .
-          git commit --allow-empty -m "Force snake update"
+          git commit -m "Update snake" || echo "Sem mudanças"
           git push
