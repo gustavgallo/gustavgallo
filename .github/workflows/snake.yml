@@ -1,22 +1,27 @@
-name: Generate Snake
-on: [workflow_dispatch]
+name: Snake Generator
+on: 
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'  # Atualiza diariamente
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      
+
       - name: Generate Snake
-        uses: https://github.com/Platane/snk@9e15a9f3b9b7e1a0e0d8c  # Versão estável
+        uses: docker://platane/snk:latest
         with:
           github_user_name: gustavgallo
-          outputs: snake.svg
+          outputs: |
+            snake.svg
+            snake-dark.svg
 
-      - name: Commit and Push
+      - name: Push files
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
           git add .
-          git commit -m "Update snake" || echo "Sem mudanças"
+          git commit -m "Update snake" || echo "No changes"
           git push
