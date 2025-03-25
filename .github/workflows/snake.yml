@@ -1,18 +1,22 @@
-name: Snake Garantido
-on: 
+name: Snake Animation
+on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *'  # Atualiza diariamente
+
 jobs:
-  gerar:
+  generate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        
       - uses: Platane/snk@v2
         with:
           github_user_name: gustavgallo
           outputs: github-contribution-grid-snake.svg
-      - run: |
+
+      - name: Push SVG to Repository
+        run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
           git add .
