@@ -11,7 +11,7 @@
 ---
 
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavgallo&layout=compact&theme=dracula&hide_border=true&hide=html,css,javascript) ![GitHub Streak](https://streak-stats.demolab.com?user=gustavgallo&theme=dark&hide_border=true)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavgallo&theme=tokyonight&hide_border=true&hide=html,css,javascript) ![GitHub Streak](https://streak-stats.demolab.com?user=gustavgallo&theme=tokyonight&hide_border=true)
 
 
-![Snake Animation](https://github.com/gustavgallo/gustavgallo/blob/output/github-contribution-grid-snake.svg)
+![Snake](https://raw.githubusercontent.com/gustavgallo/gustavgallo/output/github-contribution-grid-snake.svg)
