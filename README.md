@@ -1,8 +1,23 @@
+## 👋 About Me
+
+Hi, I'm **Gustavo Tibolla Gallo**, a 19-year-old Computer Engineering student currently in my third semester at **PUCRS** (Pontifical Catholic University of Rio Grande do Sul), based in **Porto Alegre, Brazil**.
+
+I'm passionate about technology, programming, and hardware development. I enjoy learning by building projects that blend creativity with technical skills — from software to electronics.
+
+Currently, I'm a member of **PET Informática** and I contribute to research projects at the **LSA (Autonomous Systems Laboratory)** at PUCRS, where I mainly work with **embedded systems**.
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: gustavotibollagallo@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-tibolla-gallo/)
+
 ## 💻 Technical Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,python,git,linux,arduino" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,git,linux,arduino" />
   </a>
 </p>
 
