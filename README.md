@@ -1,15 +1,12 @@
+## 💻 Technical Skills
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,python,git,linux,arduino" />
+  </a>
+</p>
 
----
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-DA291C?style=for-the-badge&logo=verilog&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavgallo&theme=tokyonight&hide_border=true&hide=html,css,javascript) ![GitHub Streak](https://streak-stats.demolab.com?user=gustavgallo&theme=tokyonight&hide_border=true)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/SystemVerilog-FF6C37?style=for-the-badge&logo=verilog&logoColor=white" />
+  <img src="https://img.shields.io/badge/VHDL-017ACC?style=for-the-badge&logoColor=white" />
+</p>
