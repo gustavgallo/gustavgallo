@@ -8,11 +8,6 @@ Currently, I'm a member of **PET Informática** and I contribute to research pro
 
 ---
 
-## 📫 Contact Me
-
-- 📧 Email: gustavotibollagallo@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-tibolla-gallo/)
-
 ## 💻 Technical Skills
 
 <p align="center">
@@ -25,3 +20,9 @@ Currently, I'm a member of **PET Informática** and I contribute to research pro
   <img src="https://img.shields.io/badge/SystemVerilog-FF6C37?style=for-the-badge&logo=verilog&logoColor=white" />
   <img src="https://img.shields.io/badge/VHDL-017ACC?style=for-the-badge&logoColor=white" />
 </p>
+
+## 📫 Contact Me
+
+- 📧 Email: gustavotibollagallo@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-tibolla-gallo/)
+
