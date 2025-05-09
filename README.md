@@ -12,7 +12,7 @@ Currently, I'm a member of **PET Informática** and I contribute to research pro
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,git,linux,arduino" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,git,linux,vscode,arduino" />
   </a>
 </p>
 
