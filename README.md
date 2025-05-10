@@ -4,7 +4,7 @@ Hi, I'm **Gustavo Tibolla Gallo**, a 19-year-old Computer Engineering student cu
 
 I'm passionate about technology, programming, and hardware development. I enjoy learning by building projects that blend creativity with technical skills — from software to electronics.
 
-Currently, I'm a member of **PET Informática** and I contribute to research projects at the **LSA (Autonomous Systems Laboratory)** at PUCRS, where I mainly work with **embedded systems**.
+I'm currently a member of PUCRS's **[PET-Informática](https://petinfpucrs.github.io/)** and contribute to research projects at the **LSA — Autonomous Systems Laboratory**, where I mainly work with **Arduino** and **low-level programming** for embedded systems.
 
 ---
 
@@ -21,8 +21,20 @@ Currently, I'm a member of **PET Informática** and I contribute to research pro
   <img src="https://img.shields.io/badge/VHDL-017ACC?style=for-the-badge&logoColor=white" />
 </p>
 
+## 🛠️ Featured Projects
+
+- 🎓 [**Cpp-studies**](https://github.com/gustavgallo/cpp-studies)  
+  Repository for my C++ studies at university — includes data structures, algorithms, and general coursework exercises.
+  
+- 🎮 **[Bulls & Cows on FPGA](https://github.com/gustavgallo/Bulls-Cows-SD)**  
+  A hardware implementation of the classic game, using SystemVerilog and seven-segment displays.
+
+
 ## 📫 Contact Me
 
-- 📧 Email: gustavotibollagallo@gmail.com  
+- 📧 [Email](mailto:gustavotibollagallo@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-tibolla-gallo/)
+
+---
+
 
