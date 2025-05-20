@@ -27,7 +27,7 @@ I'm currently a member of PUCRS's **[PET-Informática](https://petinfpucrs.githu
   Repository for my C++ studies at university — includes data structures, algorithms, and general coursework exercises.
   
 - 🎮 **[Bulls & Cows on FPGA](https://github.com/gustavgallo/Bulls-Cows-SD)**  
-  A hardware implementation of the classic game, using SystemVerilog and seven-segment displays.
+  A hardware implementation of the classic game, using SystemVerilog and a Nexys-A7 **FPGA**.
 
 
 ## 📫 Contact Me
