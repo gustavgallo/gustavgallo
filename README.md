@@ -1,6 +1,6 @@
-## 👋 About Me
+## About Me
 
-Hi, I'm **Gustavo Tibolla Gallo**, a 20-year-old Computer Engineering student currently in my 4º semester at **PUCRS** (Pontifical Catholic University of Rio Grande do Sul), based in **Porto Alegre, Brazil**.
+Hi, I'm **Gustavo Tibolla Gallo**, a 20-year-old Computer Engineering student currently in my 5º semester at **PUCRS** (Pontifical Catholic University of Rio Grande do Sul), based in **Porto Alegre, Brazil**.
 
 I'm passionate about technology, programming, and hardware development. I enjoy learning by building projects that blend creativity with technical skills — from software to electronics.
 
@@ -23,7 +23,8 @@ I'm currently a member of PUCRS's **[PET-Informática](https://petinfpucrs.githu
 - ⌨️ **[FPGA-Keyboard-Driver](https://github.com/LucasGonGo/CSD-FPGA-Keyboard)**  
   USB keyboard integration project using a Nexys A7 FPGA — implements HID protocol communication and UART serial transmission.
 
-
+- 👽 **[FPGA-Space-Invaders](https://github.com/GncRodrigo/Csd_Space_Invaders)**  
+  A System-on-a-Chip (SoC) project that integrates keyboard and VGA drivers to run a simple version of Space Invaders.
 
   
 
