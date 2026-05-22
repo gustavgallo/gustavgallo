@@ -4,10 +4,9 @@ Hi, I'm **Gustavo Tibolla Gallo**, a 20-year-old Computer Engineering student cu
 
 I'm passionate about technology, programming, and hardware development. I enjoy learning by building projects that blend creativity with technical skills, from software to electronics.
 
-I'm currently a member of PUCRS's **[PET-Informática](https://petinfpucrs.github.io/)** and contribute to research projects at the **LSA — Autonomous Systems Laboratory**, where I mainly work with **C++**, **FPGA's** and **low-level programming** for embedded systems.
+🔬 R&D Intern at **[AEL Sistemas](https://www.ael.com.br/)**, one of Brazil's leading defense and aerospace electronics companies. Part of the PLD-Hardware team, focused on digital design verification using **SystemVerilog**.
 
 ---
-
 
 ## 🛠️ Featured Projects
 
